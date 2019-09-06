@@ -17,15 +17,10 @@ The recommended way to install Swetest is through Composer.
 curl -sS https://getcomposer.org/installer | php
 ```
 
-Next, update your project's composer.json file to include Swetest:
+Next, Run the Composer require command from the Terminal:
 
-```json
-{
-    "require": {
-        "destinylab/swetest": "dev-master"
-    }
-}
-```
+    composer require hardevine/swetest
+
 
 ## Usage
 
